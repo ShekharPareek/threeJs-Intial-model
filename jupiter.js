@@ -1,4 +1,4 @@
-import * as THREE from './three.module.js';
+import * as THREE from './path/to/three.module.js';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader.js';
 
