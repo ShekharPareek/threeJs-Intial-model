@@ -6,4 +6,25 @@ body{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    background-color: #1f2937;
+}
+canvas.webgl{
+    position: absolute;
+    left: 0;
+    top: 8%;
+    border-radius: 35px;
+}
+div#crossBtn{
+    background-color: white;
+    padding: 0px 4px;
+    border-radius: 28px;
+    color: #1f2937;
+    position: absolute;
+    top: 10%;
+    left: 89%;
+    z-index: 2;
+    display: none;
+    cursor: pointer;
+    font-size: 30px;
+
 }
